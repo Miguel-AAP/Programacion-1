@@ -1,0 +1,14 @@
+clase estudiantes
+atributo cedula
+atributo nota final
+
+clase seccion
+atributo contador aprobados
+atributo contador estudiantes
+atributo acumulador nota
+método procesar estudiantes
+    aumentar contador estudiantes
+    aumentar contador aprobados si nota >= 48
+    acumular nota
+método calcular promedio
+    contador estudiantes/ acumlador notas

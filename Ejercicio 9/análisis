@@ -1,0 +1,16 @@
+clase articulo
+    atributo codigo
+    atributo costo
+    atributo precio
+
+clase tienda
+    atributo acumulador diferencia
+    atributo codigoMayorPrecioVenta
+    método procesar articulo
+        acumular diferencia entre percio y costo
+        comparar precio articulos
+
+
+
+
+
