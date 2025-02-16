@@ -1,0 +1,16 @@
+clase empresa
+atributo contador clientes mujeres mayores
+atributo menor edad
+atributo contador clientes
+atributo acumulador edad
+método calcular promedio
+método procesar clientes
+incrementar contador clientes
+    incrementar contador clientes mujeres mayores
+    acumular edad
+    comparar edad
+clase cliente
+atributo nombre
+atributo tipo servicio
+atributo edad
+atributo sexo

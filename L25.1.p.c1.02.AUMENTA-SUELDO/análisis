@@ -1,0 +1,16 @@
+clase empresa
+atributo contador personal obrero
+atributo contador personal
+atributo monto total pagar incremento   
+método procesarEmpleado
+    contar personal
+    contar personal obrero
+    acumular monto pagar
+    calcular nuevo sueldo
+    
+
+clase empleado
+atributo cédula
+atributo sueldo
+atributo tipo empleado
+atributo aumento

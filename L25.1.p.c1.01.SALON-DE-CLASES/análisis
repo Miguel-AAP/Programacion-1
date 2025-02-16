@@ -1,0 +1,21 @@
+clase salón de clases
+metodo edad promedio
+método porcentajes chicas mayor
+atributo estudiante mayor nombre
+atributo estudiante mayor edad
+atributo contador estudiantes
+atributo acumulador edad estudiantes
+atributo contador chicas
+atributo contador chicas mayor edad
+método procesarestudiantes
+    comparar edad de estudiantes
+    asignar estudiante mayor a atributo mayor estudiante nombre y edad
+    incrementar contador estudiantes
+    acumular edad estudiantes
+    incrementar chicas
+    incrementar chicas mayor edad
+
+clase estudiante
+atributo nombre
+atributo edad
+atributo sexo
